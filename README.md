@@ -18,3 +18,4 @@ My details for configuring a new Mac OSX machine
 * Workspaces (register appropriate workspace instance codes)
 * Zip cleaner
 * Screens Connect (for screens vnc remote access)
+* Github Desktop
