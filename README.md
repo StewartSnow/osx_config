@@ -19,3 +19,4 @@ My details for configuring a new Mac OSX machine
 * Zip cleaner
 * Screens Connect (for screens vnc remote access)
 * Github Desktop
+* EOS Utility for download and remote shooting
