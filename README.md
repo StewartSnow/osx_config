@@ -20,3 +20,4 @@ My details for configuring a new Mac OSX machine
 * Screens Connect (for screens vnc remote access)
 * Github Desktop
 * EOS Utility for download and remote shooting
+* Atom
